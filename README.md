@@ -14,13 +14,13 @@ The project initially leveraged **Google Cloud Storage** and **BigQuery** for pr
 ## 📷 Dashboard Previews
 
 ### 🔹 Performance Overview  
-![Performance Overview](images/Performance%20Overview.png)
+![Performance Overview](Images/Performance%20Overview.png)
 
 ### 🔹 Interactive Country Map  
-![Interactive Country Map](images/InteractiveCountryMap.png)
+![Interactive Country Map](Images/InteractiveCountryMap.png)
 
 ### 🔹 Top Products  
-![Top Products](images/TopProducts.png)
+![Top Products](Images/TopProducts.png)
 
 ---
 
